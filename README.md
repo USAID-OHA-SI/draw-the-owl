@@ -1,6 +1,6 @@
 # draw-the-owl
 
-![](https://i.kym-cdn.com/entries/icons/original/000/013/412/Screen_Shot_2013-07-05_at_12.26.36_PM.png){width="150"}
+![](https://i.kym-cdn.com/entries/icons/original/000/013/412/Screen_Shot_2013-07-05_at_12.26.36_PM.png)
 
 Repo for strategic information needs assessment code and examples.
 
